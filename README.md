@@ -16,3 +16,7 @@ In order to create a site skin, you need to have an AO3 account and you need to 
 7. Paste the code into the CSS box of the new skin you are creating.
 8. Afterwards, scroll to the bottom of the page and tap on the button labelled Submit. This will save your site skin and take you to a new page where you can see the title of your skin as well as all of the code.
 9. On the site skin page, tap on the button labelled Use. You will now have this skin every time you're logged in on any device.
+
+<img width="828" height="1026" alt="2026-05-21 17 15 15" src="https://github.com/user-attachments/assets/2cf2199c-393a-42ad-a5a1-d846e98540bb" />
+
+<img width="828" height="573" alt="2026-05-21 17 19 13" src="https://github.com/user-attachments/assets/84aab780-24ac-499f-919b-3fb5e6cec290" />
