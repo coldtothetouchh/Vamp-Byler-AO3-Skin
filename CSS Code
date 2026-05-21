@@ -95,11 +95,11 @@ a:focus {
 .listbox .index,
 .work.own,
 .thread .even {
-  background: #1a0f0f url("https://i.postimg.cc/Z579LRzs/low-contrast-linen.png") repeat;
+  background: #1a0f0f url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/red-linen.png") repeat;
 }
 
 #outer.wrapper {
-  background: #0e0808 url("https://i.postimg.cc/Z579LRzs/low-contrast-linen.png") repeat center top;
+  background: #0e0808 url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/red-linen.png") repeat center top;
   padding-top: 0;
   width: 100%;
   min-width: 0;
@@ -107,7 +107,7 @@ a:focus {
 }
 
 #header {
-  background-image: url("https://i.postimg.cc/CK04sGr2/HHG4UU2Wc-AEkh-Wx.jpg");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/art-by-twwarina.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 30px;
@@ -298,7 +298,7 @@ a.tag:focus,
 
 #dashboard,
 #dashboard.own {
-  background: #1a0f0f url("https://i.postimg.cc/Z579LRzs/low-contrast-linen.png") repeat;
+  background: #1a0f0f url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/red-linen.png") repeat;
   color: #c9bfb8;
   border: 2px solid #4a1f1f;
   box-shadow: 0 0 2px #000;
@@ -454,7 +454,7 @@ dl.meta,
 dl.index dd,
 #ibox_wrapper,
 #ibox_content {
-  background: #1a0f0f url("https://i.postimg.cc/Z579LRzs/low-contrast-linen.png") repeat;
+  background: #1a0f0f url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/red-linen.png") repeat;
 }
 
 textarea:focus,
@@ -479,7 +479,7 @@ option,
 li.blurb,
 .listbox li.blurb {
   border: 20px solid transparent;
-  border-image: url("https://i.postimg.cc/YCPmN91M/lace-border-2.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/lace-border.png") 20% round;
   box-shadow: 0 0 4px #000;
 }
 
@@ -501,7 +501,7 @@ li.thread {
 
 li.comment:not(.child) {
   border: 15px solid transparent;
-  border-image: url("https://i.postimg.cc/YCPmN91M/lace-border-2.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/lace-border.png") 20% round;
   margin-bottom: 1em;
 }
 
@@ -582,7 +582,7 @@ dl.meta,
 #workskin {
   text-align: justify;
   border: 30px solid transparent;
-  border-image: url("https://i.postimg.cc/YCPmN91M/lace-border-2.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/lace-border.png") 20% round;
   margin-top: 2em;
 }
 
@@ -745,7 +745,7 @@ p.kudos::before {
   transform: translateX(-50%);
   width: 180px;
   height: 180px;
-  background: url("https://i.postimg.cc/PJgxQn2h/Vamp-Mike-Text-Graphic.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/VampMikeTextGraphic.png") no-repeat center center !important;
   background-size: contain !important;
   display: block !important;
   z-index: 1;
@@ -788,7 +788,7 @@ dd.kudos img,
   transform: translateX(-50%);
   width: 140px;
   height: 140px;
-  background: url("https://i.postimg.cc/PJgxQn2h/Vamp-Mike-Text-Graphic.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/VampMikeTextGraphic.png") no-repeat center center !important;
   background-size: contain !important;
 }
 
@@ -879,7 +879,7 @@ span.private span.text {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("https://i.postimg.cc/W4RMZ8L3/lace-profile-square.png") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Vamp-Byler-AO3-Skin/refs/heads/main/lace-profile-square.png") no-repeat center center;
   background-size: contain;
   display: block;
 }
