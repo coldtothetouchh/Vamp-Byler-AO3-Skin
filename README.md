@@ -7,7 +7,7 @@ If you have any feedback or run into any issues with the skin, please message me
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
-1. Copy the code provided here. There is a copy button at the top of the code box in github. (https://github.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin/blob/main/CSS%20Code)
+1. Copy the code provided here. There is a copy button at the top of the code box in github. (https://github.com/coldtothetouchh/Vamp-Byler-AO3-Skin/blob/main/CSS%20Code)
 2. Sign into AO3 if you haven't already. At the top of the page, tap on your username.
 3. From the dropdown menu that appears, tap on Dashboard.
 4. On your Dashboard, tap on the link called Skins.
